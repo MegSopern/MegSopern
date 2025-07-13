@@ -1,13 +1,13 @@
 <div id="title" align=center>
 
-![Modern C++ template][github-sub-title:img]
+![Python template][github-sub-title:img]
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegSopern&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
 
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-mq%E7%99%BD-yello)]()
-[![youtube](https://img.shields.io/badge/video-YouTube-red)]()
+[![哔哩哔哩](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-MegSu-blue)](https://m.bilibili.com/space/424292951)
+[![](https://img.shields.io/badge/video-YouTube-red)]()
 
-[![modern cpp](https://img.shields.io/badge/code-Modern%20C++-blue)](https://learn.microsoft.com/zh-cn/cpp/cpp/welcome-back-to-cpp-modern-cpp) 
+[![Python](https://img.shields.io/badge/code-Modern%20C++-blue)]([https://docs.microsoft.com/zh-cn/windows/python]) 
 ![](https://img.shields.io/badge/讨厌-下雨🌧️-yellow) 
 ![](https://img.shields.io/badge/性格-开朗-red) 
 ![](https://img.shields.io/badge/爱好-二次元-red)
