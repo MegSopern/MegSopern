@@ -2,7 +2,7 @@
 
 ![Python template][github-sub-title:img]
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MegSopern&show_icons=true&theme=tokyonight)](https://b23.tv/iEJTnPp)
+[![](https://github-readme-stats.vercel.app/api?username=MegSopern&locale=cn&line_height=33&show_icons=true&hide=&theme=dracula&rank_icon=default)
 
 [![哔哩哔哩](https://img.shields.io/badge/%E5%93%94%E5%93%A9%E5%93%94%E5%93%A9-MegSu-FB7299)](https://m.bilibili.com/space/424292951)
 [![](https://img.shields.io/badge/video-YouTube-red)]()
