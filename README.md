@@ -9,7 +9,7 @@
 
 [![Python](https://img.shields.io/badge/code-Python-3776AB?logo=python&logoColor=FFD43B)](https://docs.microsoft.com/zh-cn/windows/python)
 ![](https://img.shields.io/badge/性格-开朗-FFA500) 
-![](https://img.shields.io/badge/爱好-二次元-blue)
+![](https://img.shields.io/badge/爱好-二次元-FF9FF3)
 
 </div>
 
