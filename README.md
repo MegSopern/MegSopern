@@ -15,6 +15,6 @@
 
 ![头像](image/头像.jpg)
 
-![Visitor Count](https://profile-counter.glitch.me/MegSopern/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/MegSopern/image/表情包.jpeg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=MEG
