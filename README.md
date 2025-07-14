@@ -17,4 +17,9 @@
 
 ![表情包](image/表情包.jpeg)
 
+[![喝茶时间][tea-time-badge]][profile-link]
+
+[tea-time-badge]: https://img.shields.io/badge/下面是喝茶时间-%23a86cc8d9?style=flat
+[profile-link]: https://github.com/MegSopern
+
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=MEG
