@@ -11,15 +11,15 @@
 ![](https://img.shields.io/badge/性格-开朗-FFA500) 
 ![](https://img.shields.io/badge/爱好-二次元-FF9FF3)
 
-</div>
+[![喝茶时间][内容]][链接]
 
 ![头像](image/头像.jpg)
 
 ![表情包](image/表情包.jpeg)
 
-[![喝茶时间][tea-time-badge]][profile-link]
+</div>
 
-[tea-time-badge]: https://img.shields.io/badge/下面是喝茶时间-%23a86cc8d9?style=flat
-[profile-link]: https://github.com/MegSopern
+[内容]: https://img.shields.io/badge/下面是喝茶时间-%23a86cc8d9?style=flat
+[链接]: https://github.com/MegSopern
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=MEG
